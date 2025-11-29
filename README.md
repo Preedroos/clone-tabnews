@@ -1,2 +1,2 @@
 # clone-tabnews
-Implementação do clone do https://tabnews.com como exercício de programação.
+Implementação do clone do https://tabnews.com.br como exercício de programação.
